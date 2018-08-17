@@ -1,0 +1,11 @@
+1. autoprefixer-cli 
+ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css
+
+KOMENDA: node_modules/.bin/autoprefixer-cli -o styleprefixed.css style.css
+sprawdzono na display: flex w style.css - dzia³a. :-)
+
+2. nu-html-checker 
+ma wyœwietlaæ listê b³êdów we wszystkich plikach .htm
+
+KOMENDA: node_modules/.bin/nu-html-checker *html
+sprawdzono nie koñcz¹c tagu <section> w index.html - dzia³a. :-)
