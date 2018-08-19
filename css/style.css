@@ -1,6 +1,7 @@
-.test2 {
+.test-finallly-works {
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
-
 /*# sourceMappingURL=style.css.map */
